@@ -1,0 +1,31 @@
+{
+  "commissaires": {
+    "SPR": [
+      "Fides Paulin Nteziryayo",
+      "Clarisse Moungounga",
+      "Michel Pierre",
+      "André Breton",
+      "Sophie Lanthier",
+      "Marie-Claude Baril"
+    ],
+    "SAR": [
+      "Jean-François Bertrand",
+      "Danielle Magloire",
+      "Lucie Joncas"
+    ],
+    "SI": [
+      "Robert Orr",
+      "Salvatore Badali"
+    ],
+    "SAI": [
+      "Francesca Marzari",
+      "Edward Bosveld"
+    ]
+  },
+  "metadata": {
+    "derniere_mise_a_jour": "2026-01-06T22:37:00.000000",
+    "url_source": "https://www.irb-cisr.gc.ca/fr/commissaires/Pages/list-of-members-liste-des-membres.aspx",
+    "total_commissaires": 13,
+    "note": "Cache manuel - Scraping automatique à implémenter (page JS dynamique)"
+  }
+}

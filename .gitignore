@@ -1,2 +1,38 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+
+# Environnement
+.env
+.venv/
+venv/
+
+# FFmpeg portable (binaires volumineux)
+ffmpeg_portable/
+ffmpeg.zip
+
+# Fichiers audio (volumineux, pas versionnés)
+*.a00
+*.mp3
+*.wav
+
+# Données de test (volumineux)
+Test_Pipeline/
+Test_Demandes/
+extracted_temp/
+
+# Référentiels audio (garder seulement les .docx)
+referentiels/**/*.a00
+referentiels/**/*.mp3
+referentiels/**/*.wav
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp

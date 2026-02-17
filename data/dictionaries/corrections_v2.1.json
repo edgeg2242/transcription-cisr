@@ -1,0 +1,229 @@
+{
+  "version": "2.1",
+  "derniere_mise_a_jour": "2026-01-07",
+  "source_erreurs": "RAPPORT_EVALUATION_TRANSCRIPTION_REELLE.md (MC3-03924)",
+  "total_entrees": 134,
+  "changelog_v2.1": "Suppression 8 faux positifs contextuels (CONTRAINTE #7): 'et'→'met', 'est'→'et', 'vous'→'vos', 'des'↔'de', 'les'→'le', 'une'→'ne', 'intersectionnelle'→'personnelle'",
+  "description": "Dictionnaire enrichi pour Workflow 1.5 - Corrections Intelligentes (6 passes)",
+  "pass1_termes_juridiques": {
+    "article 87": "article 96",
+    "paragraphe 87": "paragraphe 97(1)",
+    "paragraphe 97-1": "paragraphe 97(1)",
+    "paragraphe 97 1": "paragraphe 97(1)",
+    "alinéa 1 a": "alinéa (1)a)",
+    "alinéa 1a": "alinéa (1)a)",
+    "en virtu": "en vertu",
+    "sous invertu": "en vertu",
+    "à raison de": "en raison de",
+    "Roche sur l'immigration": "Loi sur l'Immigration et la Protection des Réfugiés",
+    "Roche sur l'Immigration": "Loi sur l'Immigration et la Protection des Réfugiés",
+    "la Roche": "la Loi",
+    "article 96 de la Roche": "article 96 de la Loi",
+    "selon la Roche": "selon la Loi",
+    "en conformité avec la Roche": "en conformité avec la Loi",
+    "aux termes de la Roche": "aux termes de la Loi",
+    "loi sur l'immigration et la protection des réfugiés": "Loi sur l'Immigration et la Protection des Réfugiés",
+    "loi sur l'immigration de la protection des réfugiés": "Loi sur l'Immigration et la Protection des Réfugiés",
+    "LIPR": "Loi sur l'Immigration et la Protection des Réfugiés",
+    "l'article 97": "l'article 97",
+    "le paragraphe 97": "le paragraphe 97(1)",
+    "personne à protéger": "personne à protéger",
+    "qualité de réfugié": "qualité de réfugié au sens de la Convention",
+    "convention relative au statut des réfugiés": "Convention relative au statut des réfugiés",
+    "demande d'asile": "demande d'asile",
+    "demandeur d'asile": "demandeur d'asile"
+  },
+  "pass2_noms_propres_accents": {
+    "Michoacan": "Michoacán",
+    "Merida": "Mérida",
+    "Etat": "État",
+    "Etats": "États",
+    "etat": "état",
+    "etats": "états",
+    "l'Etat de": "l'État de",
+    "les Etats de": "les États de",
+    "Mexique": "Mexique",
+    "Mexico": "Mexico",
+    "Morelia": "Morelia",
+    "Aguilar Romero-Victoria": "AGUILAR ROMERO Victoria",
+    "Aguilar-Romero Victoria": "AGUILAR ROMERO Victoria",
+    "Victoria Aguilar Romero": "Victoria AGUILAR ROMERO",
+    "Aguilar Romero": "AGUILAR ROMERO",
+    "Martinez Aguilar": "MARTINEZ AGUILAR",
+    "Paula Emilia Martinez Aguilar": "Paula Emilia MARTINEZ AGUILAR",
+    "cartel national de documentation": "Cartable national de documentation",
+    "cartel national": "Cartable national",
+    "Cartable National de Documentation": "Cartable national de documentation",
+    "INM": "INM",
+    "Institut National de Migration": "Institut national de migration",
+    "Commissaire Nteziryayo": "le commissaire Nteziryayo",
+    "Fides Paulin Nteziryayo": "Fides Paulin Nteziryayo",
+    "Nteziryayo": "Nteziryayo",
+    "Michelle Gagné-Houle": "Michelle Gagné-Houle",
+    "Gagne-Houle": "Gagné-Houle",
+    "Marcia Josefina Hernandez Estrella": "Marcia Josefina Hernandez Estrella",
+    "Hernandez Estrella": "Hernandez Estrella",
+    "l'immigration": "l'Immigration"
+  },
+  "pass3_accords_grammaticaux": {
+    "son fils, qui est le plus petit": "sa fille, qui est la plus petite",
+    "citoyens mexicains": "citoyennes mexicaines",
+    "citoyen mexicain": "citoyenne mexicaine",
+    "vous êtes né": "vous êtes née",
+    "vous êtes arrivé": "vous êtes arrivée",
+    "vous avez été menacé": "vous avez été menacée",
+    "vous êtes retourné": "vous êtes retournée",
+    "victime de violence": "victimes de violence",
+    "victime de menace": "victimes de menaces",
+    "la demandeur": "la demanderesse",
+    "le demandeur principal": "la demanderesse principale",
+    "un réfugié": "une réfugiée",
+    "un persécuté": "une persécutée",
+    "protégé par": "protégée par",
+    "exposé à": "exposée à",
+    "craindre d'être persécuté": "craindre d'être persécutée"
+  },
+  "pass4_mots_mal_reconnus": {
+    "Créait également": "Vous craignez également",
+    "Créait aussi": "Vous craignez aussi",
+    "Créait que": "Vous craignez que",
+    "créait pour": "craignez pour",
+    "l'affairement": "l'avortement",
+    "un affairement": "un avortement",
+    "affairement forcé": "avortement forcé",
+    "Si vous reveniez": "Advenant votre retour",
+    "si vous retourniez": "advenant votre retour",
+    "Si vous retourniez": "Advenant votre retour",
+    "qui extorsionne": "qui faisait de l'extorsion",
+    "qui extorsionnait": "qui faisait de l'extorsion",
+    "faire de l'extorsionne": "faire de l'extorsion",
+    "vous allez chercher": "vous alliez chercher",
+    "vous allez dire": "vous alliez dire",
+    "vous allez faire": "vous alliez faire",
+    "à ce moment-là": "à ce moment-là",
+    "à cette époque-là": "à cette époque-là",
+    "durant cette période": "durant cette période",
+    "Oui, exactement": "Oui, exactement",
+    "C'est exact": "C'est exact",
+    "Tout à fait": "Tout à fait",
+    "la première fois": "la première fois",
+    "pour la première fois": "pour la première fois",
+    "c'était la première fois": "c'était la première fois",
+    "soit": "doit"
+  },
+  "pass5_cross_validation": {
+    "validation_sources": [
+      "metadata_work_order.json > participants > demandeur",
+      "metadata_work_order.json > participants > commissaire",
+      "metadata_work_order.json > participants > interprete",
+      "metadata_work_order.json > dossier > numero",
+      "metadata_work_order.json > audience > date"
+    ],
+    "champs_critiques": [
+      "numero_dossier",
+      "nom_demandeur",
+      "nom_commissaire",
+      "date_audience",
+      "nom_interprete"
+    ]
+  },
+  "elements_a_supprimer": {
+    "Bonjour": "",
+    "Bonjour.": "",
+    "Merci beaucoup": "",
+    "Merci beaucoup.": "",
+    "Au revoir": "",
+    "Au revoir.": "",
+    "Bonne journée": "",
+    "Bonne journée.": "",
+    "Merci et bonne journée": "",
+    "Merci et bonne journée.": "",
+    "Merci, bonne journée": "",
+    "Merci, bonne journée.": "",
+    "Euh": "",
+    "euh": "",
+    "hum": "",
+    "Hum": ""
+  },
+  "notes_enrichissement": {
+    "pass1": {
+      "total_entrees": 25,
+      "categories": [
+        "articles_loi",
+        "paragraphes",
+        "expressions_juridiques",
+        "noms_lois"
+      ],
+      "source": "Rapport évaluation MC3-03924 - Section 'Erreurs termes juridiques'"
+    },
+    "pass2": {
+      "total_entrees": 30,
+      "categories": [
+        "lieux_geographiques",
+        "noms_personnes",
+        "homophones",
+        "accents_manquants"
+      ],
+      "source": "Rapport évaluation MC3-03924 - Section 'Erreurs noms propres et accents'"
+    },
+    "pass3": {
+      "total_entrees": 9,
+      "categories": [
+        "accords_genre",
+        "accords_nombre",
+        "accords_participes"
+      ],
+      "source": "Rapport évaluation MC3-03924 - Section 'Erreurs accords grammaticaux'",
+      "note": "Corrections contextuelles basées sur genre demandeur (metadata)",
+      "v2.1_cleanup": "Supprimés 6 faux positifs: 'vous'→'vos', 'des'↔'de', 'les'→'le', 'une'→'ne', 'intersectionnelle'→'personnelle'"
+    },
+    "pass4": {
+      "total_entrees": 18,
+      "categories": [
+        "confusions_phonetiques",
+        "paraphrases",
+        "termes_medicaux",
+        "temps_verbaux"
+      ],
+      "source": "Rapport évaluation MC3-03924 - Section 'Erreurs mots mal reconnus'",
+      "v2.1_cleanup": "Supprimés 2 faux positifs CRITIQUES: 'et'→'met' (détruisait texte), 'est'→'et' (trop contextuel)"
+    },
+    "pass5": {
+      "note": "Cross-validation avec metadata_work_order.json - pas de corrections directes, seulement warnings"
+    },
+    "elements_a_supprimer": {
+      "total_entrees": 15,
+      "source": "CISR_Corrections_Dictionary.json V1 (conservé)",
+      "note": "Éléments non substantiels à retirer de la transcription"
+    }
+  },
+  "exemples_usage": {
+    "pass1_exemple": {
+      "input": "Selon l'article 87 de la Roche sur l'immigration, paragraphe 97-1",
+      "output": "Selon l'article 96 de la Loi sur l'Immigration et la Protection des Réfugiés, paragraphe 97(1)"
+    },
+    "pass2_exemple": {
+      "input": "Victoria est née à Morelia, Michoacan, et a vécu à Merida dans l'Etat de Yucatan",
+      "output": "Victoria est née à Morelia, Michoacán, et a vécu à Mérida dans l'État de Yucatan"
+    },
+    "pass3_exemple": {
+      "input": "Vous êtes né au Mexique et vous êtes arrivé au Canada comme citoyen mexicain",
+      "output": "Vous êtes née au Mexique et vous êtes arrivée au Canada comme citoyenne mexicaine",
+      "context": "Genre demandeur = féminin (Victoria)"
+    },
+    "pass4_exemple": {
+      "input": "Créait également que si vous reveniez, vous allez chercher l'affairement",
+      "output": "Vous craignez également qu'advenant votre retour, vous alliez chercher l'avortement"
+    }
+  },
+  "metriques_qualite": {
+    "objectif_similarite": "95%+",
+    "similarite_actuelle": "55%",
+    "erreurs_critiques_cible": "≤5",
+    "erreurs_critiques_actuelles": "40",
+    "score_qa_cible": "≥32/37 (86%)",
+    "score_qa_actuel": "5/20 (25%)",
+    "temps_revision_cible": "10-15 min",
+    "temps_revision_actuel": "45-60 min"
+  }
+}
